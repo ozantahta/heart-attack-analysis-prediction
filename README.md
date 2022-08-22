@@ -1,2 +1,2 @@
 # heart-attack-analysis-prediction
-Heart Attack Prediction Analysis &amp; Prediction
+Heart Attack Analysis &amp; Prediction
